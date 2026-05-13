@@ -115,7 +115,7 @@ The backbone of my C education, covering every major building block of the langu
 ## Education
 
 **Holberton School** — Full-Stack Software Engineering  
-Curriculum grounded in C, low-level programming, algorithms, and systems design before moving up the stack.
+Curriculum grounded in Low and High Level Languages with Augmented Capabilities.
 
 ---
 
