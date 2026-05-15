@@ -1,7 +1,7 @@
 # Carlos Silva — CodexSC
 
 > *"Πᾷ βῶ, καὶ χαριστίωνι τὰν γᾶν κινήσω πᾶσαν."*  
-> **"Give me a place to stand, and I will move the whole earth."** — Archimedes
+> **"Give me a place to stand and a lever, and I will move the whole earth."** — Archimedes
 
 DEV trained at **Holberton School**, focused on building computer solutions from the engine to the fairings.
 
